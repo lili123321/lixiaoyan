@@ -1,0 +1,1 @@
+%comspec% /k ""D:\VS2008\VC\vcvarsall.bat"" x86

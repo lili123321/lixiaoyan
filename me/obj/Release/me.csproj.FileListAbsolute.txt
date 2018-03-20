@@ -1,0 +1,12 @@
+E:\JSTB\trunk\src\sengine\lbm\me\bin\Release\me.exe
+E:\JSTB\trunk\src\sengine\lbm\me\bin\Release\me.pdb
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\ResolveAssemblyReference.cache
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\Window1.baml
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\Window1.g.cs
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\App.g.cs
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me_MarkupCompile.cache
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me.g.resources
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me.Properties.Resources.resources
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me.csproj.GenerateResource.Cache
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me.exe
+E:\JSTB\trunk\src\sengine\lbm\me\obj\Release\me.pdb
