@@ -2,7 +2,7 @@
 using namespace  std;
 int main()
 {  
-	//±È½Ïbreak,continue,breakµÄÓÃ·¨   ºÍj++,++jµÄÇø±ð
+	//ï¿½È½ï¿½break,continue,breakï¿½ï¿½ï¿½Ã·ï¿½   ï¿½ï¿½j++,++jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	//int  j=1;
 	while (j!=6)
 	{
@@ -18,7 +18,7 @@ int main()
 		   {
 			  cout<<"i="<<i<<endl;
 		   }
-           cout<<"Àï²ãÑ­»·"<<endl;
+           cout<<"ï¿½ï¿½ï¿½Ñ­ï¿½ï¿½"<<endl;
 	    }
 		cout<<"j="<<++j<<endl;
 
@@ -31,6 +31,7 @@ int main()
 
 void advice()
 {
+    //æµ‹è¯•gitçš„ä½¿ç”¨
 	int m=2;
 	if (m==2)
 	 return ;
