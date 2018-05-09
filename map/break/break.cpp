@@ -32,6 +32,7 @@ int main()
 void advice()
 {
     //测试git的使用
+	//什么万一
 	int m=2;
 	if (m==2)
 	 return ;
